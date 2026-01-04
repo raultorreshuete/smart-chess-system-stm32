@@ -1,0 +1,14 @@
+currentConsumo.cgx,
+currentDate.cgx,
+currentTime.cgx,
+favicon.ico,
+historico.cgi,
+index.htm,
+nuevaPartida.cgi,
+nuevaPartida.js,
+retomarPartida.cgi,
+retomarPartida.js,
+tiempoBlancas.cgx,
+tiempoNegras.cgx,
+turno.cgx 
+TO Web.c RTE NOPRINT ROOT(.\src\web)
